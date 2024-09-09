@@ -1,0 +1,1 @@
+MerHabalar bu projede bolca teorik bilgi var yeni başlayan yada orta seviyede olan arkadaşlarımız için hazırlanmıştır... Form da her daim hata mesajı alıcaksınız sadece bu hata mesajını spesifikleştirmek istedik.
